@@ -7,6 +7,8 @@ final appStateProvider = StateProvider<AppState>((ref) {
 });
 
 class AppState {
+
+  
   final double slider;
   final bool showPassword;
 
